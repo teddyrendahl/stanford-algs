@@ -2,10 +2,11 @@
 
 Classes include:
 
-* Divide and Conquer, Sorting and Searching, and Randomized Algorithms
+* **Divide and Conquer, Sorting and Searching, and Randomized Algorithms**
 
     - **Assignment 1**: Integer Multiplication
- 
+    - **Assignment 2**: Inversions
+
 Each assignment contains a `run_tests.py` that runs the created algorithm
 against a number of example test cases. 
 
