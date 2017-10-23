@@ -7,3 +7,5 @@ ith row of the file indicates the ith entry of an array.
 
 Because of the large size of this array, you should implement the fast
 divide-and-conquer algorithm covered in the video lectures.
+
+All test cases were taken from [here](https://github.com/beaunus/stanford-algs/tree/master/testCases/course1/assignment2Inversions)
