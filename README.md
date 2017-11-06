@@ -6,6 +6,7 @@ Classes include:
 
     - **Assignment 1**: Integer Multiplication
     - **Assignment 2**: Inversions
+    - **Assignment 3**: Quicksort
 
 Each assignment contains a `run_tests.py` that runs the created algorithm
 against a number of example test cases. 
