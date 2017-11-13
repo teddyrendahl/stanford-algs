@@ -7,7 +7,7 @@ Classes include:
     - **Assignment 1**: Integer Multiplication
     - **Assignment 2**: Inversions
     - **Assignment 3**: Quicksort
-    - **Assignment 3**: Minimum Cut
+    - **Assignment 4**: Minimum Cut
 
 Each assignment contains a `run_tests.py` that runs the created algorithm
 against a number of example test cases. 
