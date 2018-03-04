@@ -13,6 +13,7 @@ Classes include:
     - **Assignment 1**: Strongly Connected Components
     - **Assignment 2**: Dijkstra's Shortest Path
     - **Assignment 3**: Median Maintenance
+    - **Assignment 4**: Two Sum
 
 Each assignment contains a `run_tests.py` that runs the created algorithm
 against a number of example test cases. 
