@@ -15,6 +15,9 @@ Classes include:
     - **Assignment 3**: Median Maintenance
     - **Assignment 4**: Two Sum
 
+* **Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming**
+    - **Assignment 1**: Scheduling and Prim's MST Algorithm
+
 Each assignment contains a `run_tests.py` that runs the created algorithm
 against a number of example test cases. 
 
