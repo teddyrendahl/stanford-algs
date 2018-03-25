@@ -35,8 +35,8 @@ def knapsack(size, items):
 
 
 def fast_knapsack(size, items):
-    best_weights = np.zeros(size+1)
-    item_weights = np.zeros(size+1)
+    best_weights = np.zeros(size+1, dtype=int)
+    item_weights = np.zeros(size+1, dtype=int)
     for i, item in enumerate(items):
         # If we can not add the item just use the last row
         item_weights[:item.weight] = best_weights[:item.weight]
